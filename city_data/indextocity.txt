@@ -1,0 +1,20 @@
+1   Berlin
+2   Hamburg
+3   Munich
+4   Frankfurt am Main
+5   Cologne
+6   Stuttgart
+7   Düsseldorf
+8   Hanover
+9   Bremen
+10  Wolfsburg
+11  Essen
+12  Dortmund
+13  Nuremburg
+14  Leipzig
+15  Ingolstadt
+16  Dresden
+17  Bonn
+18  Regensburg
+19  Halle (Salle)
+20  Ludwigshafen am Rhein

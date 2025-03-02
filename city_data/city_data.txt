@@ -1,0 +1,20 @@
+1   Berlin  3677472  165457
+2   Hamburg  190641  130873
+3   Munich  1487708  128752
+4   Frankfurt am Main   759224  74087   
+5   Cologne  1073096  66687
+6   Stuttgart   626275  54983
+7   Düsseldorf  619477  54150
+8   Hanover  535932  55374
+9   Bremen  563290  30973
+10  Wolfsburg   123949  19668
+11  Essen   579432  27114
+12  Dortmund    586852  24595
+13  Nuremburg   510632    32323
+14  Leipzig  601866  23804
+15  Ingolstadt  138016  17943
+16  Dresden  555351  24067
+17  Bonn    331885  27160
+18  Regensburg  153542   13842
+19  Halle (Salle)   238061  8149
+20  Ludwigshafen am Rhein   172145    13130
